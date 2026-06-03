@@ -30,7 +30,24 @@ $ cat about.txt
 - 🛡️  Currently specializing in Cybersecurity
 - 💻  Passionate about building apps (mobile + web) and breaking things (ethically)
 - 🌍  Based in Valencia, Spain
-- 🔍  Open to work — junior roles in dev or cybersecurity
+- 🔍  Open to work in dev or cybersecurity
+```
+
+---
+
+## `> SYSTEM_STATUS`
+
+```bash
+$ uptime
+focus: Cybersecurity + Secure Web/Mobile Dev   [ACTIVE]
+
+$ ps aux | grep current
+pablo   now   building   secure apps with React, Flutter & Kotlin
+pablo   now   learning   Rust, Vue & offensive security (ethically)
+pablo   now   status     open_to_work
+
+$ echo $MOTTO
+"Build it secure, or don't ship it."
 ```
 
 ---
@@ -77,33 +94,11 @@ $ cat about.txt
 
 ---
 
-## `> LOADING PROJECT_FILES...`
-
-<div align="center">
-
-| Project | Description | Stack | Status |
-|---|---|---|---|
-| 🌌 [**Star WikiWars**](#) | Android app consuming SWAPI — characters & ships | Kotlin · MVVM | ✅ Live |
-| 🛡️ [**QR-Shield**](#) | QR scanner that detects phishing URLs in real time | Flutter · Supabase | ✅ Live |
-| 🎵 [**HarmoniQ**](#) | Secure music streaming platform with session management | React · Supabase | ✅ Live |
-
-</div>
-
----
-
 ## `> GITHUB_STATS --verbose`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pablo7843&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo7843&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=pablo7843&theme=terminal&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)](https://git.io/streak-stats)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pablo7843&theme=high-contrast&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&hide_border=true&area=true"/>
 
 </div>
 
@@ -119,7 +114,7 @@ $ cat about.txt
 
 ```
 STATUS: OPEN_TO_WORK
-ROLES:  Junior Web Dev | Mobile Dev | Cybersecurity Analyst
+ROLES:  Web Dev | Mobile Dev | Cybersecurity Analyst
 ```
 
 </div>
@@ -127,5 +122,9 @@ ROLES:  Junior Web Dev | Mobile Dev | Cybersecurity Analyst
 ---
 
 <div align="center">
+
+`> EOF — thanks for scrolling. Connection closed. 🔒`
+
 <img src="https://komarev.com/ghpvc/?username=pablo7843&color=00ff41&style=flat-square&label=PROFILE_VIEWS"/>
+
 </div>
